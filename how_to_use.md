@@ -5,7 +5,7 @@
 
 -3 Once you finish writing your code compile with the next command:
 
-```gcc main.c CTrigL.c```'
+```gcc main.c CTrigL.c```
 
 # How to test the library
 
