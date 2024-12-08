@@ -7,7 +7,5 @@
 
 //CTrigL_trig.h
 double arccos(double x);
-double rad_to_deg(double x, bool reduce_range);
-double deg_to_rad(double x, bool reduce_range);
 
 #endif
