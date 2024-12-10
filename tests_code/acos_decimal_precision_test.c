@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "..\CTrigL.h"
+#include "..\src\CTrigL.h"
 
 int main(){
 
