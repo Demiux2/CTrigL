@@ -1,7 +1,7 @@
 # arccos()
 
 Arccos or inverse cosine is a trigonometrical function which has 1 parameter,`x`.
-The complete function name is `double arccos(double x)`, which needs an double type input and outputs a double type result.
+The complete function prototype is `dobule arccos(double x)`, which needs an double type input and outputs a double type result.
 
 ## Code example
 ```
